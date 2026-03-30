@@ -8,8 +8,8 @@ The Blazor Stay Reservation Application is a powerful tool that allows hotel own
 
 The samples requires the below requirements to run.
 
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-- [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/#visual-studio-professional-2026)
+- [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
 ## How to run the demo
 
@@ -21,7 +21,7 @@ Clone the repository.This repository contains Blazor Stay Reservation Server app
 * Open the command prompt from the demo's directory.
 * Run the demo using the following command.
    
-   To run .NET 8 Stay Reservation Server project
+   To run .NET 10 Stay Reservation Server project
    > `dotnet run --project webapp/Stay-Reservation/StayReservation.csproj`
 
 ### Run the demo using Visual Studio
